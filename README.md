@@ -1,4 +1,4 @@
-# 4colors
+# 4colors http://4colors.github.io/4colors/
 Now, the 4 colors contains Red, Green, Blue and Black.
 I want to fill the webpage with the top10 news of the world every day. 
 
